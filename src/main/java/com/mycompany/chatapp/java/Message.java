@@ -200,7 +200,7 @@ public class Message {
     // ===============================
 
     /**
-     * Adds a message to the arrays.
+     * Add a message to the arrays.
      */
     public void addMessage(String id, String recipient, String text, String hash, String flag) {
 
