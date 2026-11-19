@@ -276,7 +276,7 @@ public class Message {
     }
 
     /**
-     * b. Display the longest stored message
+     * Display the longest stored message
      */
     public String displayLongestStoredMessage() {
 
