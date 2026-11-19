@@ -176,7 +176,7 @@ public class Message {
     }
 
     /**
-     * check  SA cell numbers code  (+27)
+     * validate  SA cell numbers code  (+27)
      * @return
      */
     public String checkphoneNumber(String number) {
