@@ -42,7 +42,7 @@ public class Message {
     private ArrayList<String> messageFlags = new ArrayList<>();
 
     /**
-     * Allows user to choose message action
+     * enable  user to choose message action
      * @param msgId
      * @param msgContent
      * @param msgHash
