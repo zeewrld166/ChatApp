@@ -1,2 +1,8 @@
-["0012345678","Hi Mike","00:0:HIMIKE","+27718693002"]
-["0012345678","Hi Mike","00:0:HIMIKE","+27718693002"]
+[
+  {
+    "messageID": "6315851139",
+    "message": "whats good?",
+    "messageHash": "63:1:WHATSGOOD",
+    "recipient": "+27810401609"
+  }
+]
