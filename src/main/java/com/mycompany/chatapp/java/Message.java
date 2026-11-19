@@ -22,7 +22,9 @@ public class Message {
     
     private String sender = "Developer";
 
-    // file the stored messages are saved to and read from
+    // file the stored messages are saved to and read from  
+    
+    
     private String storageFile = "messages.json";
 
     // ===============================
